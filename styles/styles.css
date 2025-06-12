@@ -25,9 +25,9 @@ body {
 
 /* Header */
 .main-header {
-  background: linear-gradient(90deg, #1a1a2e, #16213e);
+  background: #1f1f2e
   padding: 20px 0;
-  border-bottom: 3px solid #e94560;
+  border-bottom: 3px solid #fff;
 }
 
 .nav-links {
