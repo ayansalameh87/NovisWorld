@@ -82,16 +82,16 @@ body {
 }
 
 .btn:hover {
-  background-color: #ff3e6b;
+  background-color: #000;
 }
 
 .btn-alt {
-  background-color: #16213e;
+  background-color: #000;#16213e;
   border: 2px solid #e94560;
 }
 
 .btn-alt:hover {
-  background-color: #1a1a2e;
+  background-color: #000;
 }
 
 /* Features */
