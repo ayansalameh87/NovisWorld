@@ -30,12 +30,6 @@ body {
   border-bottom: 3px solid #e94560;
 }
 
-.logo {
-  font-size: 2.2rem;
-  color: #e94560;
-  text-shadow: 2px 2px #000;
-}
-
 .nav-links {
   list-style: none;
   display: flex;
