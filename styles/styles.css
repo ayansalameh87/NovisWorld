@@ -79,7 +79,8 @@ body {
   display: inline-block;
   background-color: #e94560;
   color: #fff;
-  padding: 12px 24px;
+  padding: 24px 48px;
+  font-size: 21px;
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
